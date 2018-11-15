@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomGridControl.cs](./CS/S133193Example/CustomGridControl/CustomGridControl.cs) (VB: [CustomGridControl.vb](./VB/S133193Example/CustomGridControl/CustomGridControl.vb))
+* [CustomGridView.cs](./CS/S133193Example/CustomGridControl/CustomGridView.cs) (VB: [CustomGridViewRegistrator.vb](./VB/S133193Example/CustomGridControl/CustomGridViewRegistrator.vb))
+* [CustomGridViewRegistrator.cs](./CS/S133193Example/CustomGridControl/CustomGridViewRegistrator.cs) (VB: [CustomGridViewRegistrator.vb](./VB/S133193Example/CustomGridControl/CustomGridViewRegistrator.vb))
+* [CustomViewTabPage.cs](./CS/S133193Example/CustomGridControl/CustomViewTabPage.cs) (VB: [CustomViewTabPage.vb](./VB/S133193Example/CustomGridControl/CustomViewTabPage.vb))
+* [DrawTabImageEventArgs.cs](./CS/S133193Example/CustomGridControl/DrawTabImageEventArgs.cs) (VB: [DrawTabImageEventArgs.vb](./VB/S133193Example/CustomGridControl/DrawTabImageEventArgs.vb))
+* [DataHelper.cs](./CS/S133193Example/DataHelper.cs) (VB: [DataHelper.vb](./VB/S133193Example/DataHelper.vb))
+* [Form1.cs](./CS/S133193Example/Form1.cs) (VB: [Form1.vb](./VB/S133193Example/Form1.vb))
+* [Program.cs](./CS/S133193Example/Program.cs) (VB: [Program.vb](./VB/S133193Example/Program.vb))
+<!-- default file list end -->
 # How to display images in detail tab headers
 
 
